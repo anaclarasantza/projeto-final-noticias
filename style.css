@@ -1,51 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
-
-
-
-.retangulo-noticias{
-    position: absolute;
-    width: 1170px;
-    height: 2738px;
-    left: 7%;
-    top: 80px;
-    background: #393E46;
-    border-radius: 10px;
+.row row-cols-1 row-cols-md-3 g-4{
+    background-color: #393E46;
+}
+.col{
+    background-color: #393E46;
 }
 
-#newspaper{
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    left: 185px;
-    top: 175px;
-    background: url(image.png);    
+card h-100{
+    background-color: #393E46;
 }
 
-h1{
-    position: absolute;
-    width: 222px;
-    height: 75px;
-    left: 265px;
-    top: 180px;
-    
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 50px;
-    line-height: 75px;
-    
-    text-align: center;
-    
-    color: #FFFFFF;
-    
+.card-body{
+    background-color: #393E46;
 }
 
-#hans{
-    position: absolute;
-    width: 550px;
-    height: 312.71px;
-    left: 170px;
-    top: 285px;
-    
-    background: url(image.png);
+.card-footer{
+    background-color: #393E46;
+}
+
+.card-img-top{
+    width: auto;
+    height: 300px;
+}
+
+.d-block w-100{
+    height: 50%;
+
+}
+
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 80px;
 }

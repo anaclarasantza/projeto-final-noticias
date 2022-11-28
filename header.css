@@ -5,7 +5,7 @@
     --cor-brancoFundo: #dae1e7;
     --cor-azulEscuro: #142850;
     --cor-preto: #000;
-    --cor-cinzClaro: #414141;
+    --cor-cinzClaro: #393E46;
     --cor-fundoDaTabela: rgb(161, 160, 224);
     --cor-azulClaro: #1079a7;
 }
@@ -17,7 +17,7 @@
 
 body{ /* Definindo backgroud e fonte padrão*/
    font-family: Arial, Helvetica, sans-serif;
-   background-color: var(--cor-brancoFundo);
+   background-color: var(--cor-cinzClaro);
    color: var(--cor-branco);
 }
 
